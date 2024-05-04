@@ -30,6 +30,6 @@ export function decrypt(text: string) {
     mode: CryptoJS.mode.CBC,
     padding: CryptoJS.pad.Pkcs7,
   });
-  //转化出来的参数为一个对象，需要转化成字符串，CryptoJS.enc.Utf8为转化成utf-8编码格式的字符串形式，不然看不懂！
+  //转化出来的参数为一个对象，需要转化成utf-8编码格式字符串
   return decryptedata.toString(CryptoJS.enc.Utf8);
 }
