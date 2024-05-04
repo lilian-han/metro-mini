@@ -6,6 +6,7 @@
     "module": "esnext",
     "sourceMap": true,
     "moduleResolution": "node",
+    "isolatedModules":false,
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
@@ -13,6 +14,6 @@
     "lib": ["esnext", "dom"],
     "types": ["@dcloudio/types", "node"]
   },
-  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue","src/utils/alipayLogger.js"],
-  "exclude": ["src/utils/alipayLogger.js"]
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue","src/utils/monitor/alipayLogger.js"],
+  "exclude": ["src/utils/monitor/alipayLogger.js"]
 }
