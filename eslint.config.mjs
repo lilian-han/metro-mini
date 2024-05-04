@@ -21,7 +21,8 @@ export default [
       "plugin:vue/vue3-recommended",
       "plugin:vue/vue3-essential",
       "plugin:prettier/recommended",
-    ],
+      './.eslintrc-auto-import.json',
+  ],
     rules: {
       "no-var": "error",
       "prettier/prettier": "error",
