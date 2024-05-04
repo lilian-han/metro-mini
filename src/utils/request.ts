@@ -1,5 +1,5 @@
 import { useUserStore } from '@/stores';
-import monitor from '@/utils/alipayLogger';
+import monitor from '@/utils/monitor/alipayLogger';
 // 请求基地址
 const baseURL = import.meta.env.VITE_BASE_API;
 

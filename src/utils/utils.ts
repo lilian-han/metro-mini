@@ -1,5 +1,5 @@
 import qrcodeUtf16 from '@/utils/qrcode';
-import monitor from '@/utils/alipayLogger.js';
+import monitor from '@/utils/monitor/alipayLogger.js';
 interface IAuthCodeRes {
   authCode: string;
 }
