@@ -1,0 +1,4 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // 设置全部语言的默认格式化程序为prettier
+  "editor.formatOnSave": true // 设置全部语言在保存时自动格式化
+}

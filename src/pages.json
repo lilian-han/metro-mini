@@ -1,0 +1,476 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "一应黔行",
+        "mp-alipay": {
+          "transparentTitle": "auto",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/editPhone/index",
+      "style": {
+        "navigationBarTitleText": "一应黔行",
+        "mp-alipay": {
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/news/index",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "资讯",
+        "backgroundColor": "#ffffff",
+        "mp-alipay": {
+          "titlePenetrate": "YES",
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/shop/index",
+      "style": {
+        "navigationBarTitleText": "商城"
+      }
+    },
+    {
+      "path": "pages/my/index",
+      "style": {
+        "navigationBarTitleText": "我的",
+        "transparentTitle": "auto",
+        "titleBarColor": "#000000",
+        "mp-alipay": {
+          "transparentTitle": "auto",
+          "titlePenetrate": "YES",
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/setting",
+      "style": {
+        "navigationBarTitleText": "账号设置",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/mobileValidate",
+      "style": {
+        "navigationBarTitleText": "",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/mobile/change",
+      "style": {
+        "navigationBarTitleText": "",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/destroyAccount",
+      "style": {
+        "navigationBarTitleText": "",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/submitSuccess",
+      "style": {
+        "navigationBarTitleText": "一应黔行",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/cardBind",
+      "style": {
+        "navigationBarTitleText": "实体储值卡",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/cardAdd",
+      "style": {
+        "navigationBarTitleText": "绑定实体储值卡",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/cardSubSuccess",
+      "style": {
+        "navigationBarTitleText": "提示",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/cardList",
+      "style": {
+        "navigationBarTitleText": "实体储值卡",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/cardDetail",
+      "style": {
+        "navigationBarTitleText": "储值卡详情",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/chargeRecord",
+      "style": {
+        "navigationBarTitleText": "充值记录",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/chargeDetail",
+      "style": {
+        "navigationBarTitleText": "充值记录详情",
+        "mp-alipay": {
+          "titleBarColor": "#fff",
+          "transparentTitle": "auto",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/my/travelRecord",
+      "style": {
+        "navigationBarTitleText": "出行订单",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/travelDetail",
+      "style": {
+        "navigationBarTitleText": "交易明细",
+        "navigationBarTitleTextColor": "#FFFFFF",
+        "navigationBarTextStyle": "white",
+        "mp-alipay": {
+          "transparentTitle": "auto",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/apiTest",
+      "style": {
+        "navigationBarTitleText": "交易明细",
+        "mp-alipay": {
+          "titleBarColor": "#fff",
+          "transparentTitle": "auto",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/messageCenter/index",
+      "style": {
+        "navigationBarTitleText": "消息中心",
+        "mp-alipay": {
+          "titleBarColor": "#fff",
+          "transparentTitle": "none",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/my/invoice/open",
+      "style": {
+        "navigationBarTitleText": "开具发票",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/invoice/result",
+      "style": {
+        "navigationBarTitleText": "开票申请",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/invoice/appeal",
+      "style": {
+        "navigationBarTitleText": "异常票申诉",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/messageCenter/message",
+      "style": {
+        "navigationBarTitleText": "消息中心",
+        "mp-alipay": {
+          "titleBarColor": "#fff",
+          "transparentTitle": "none",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/my/invoice/openedList",
+      "style": {
+        "navigationBarTitleText": "已开发票",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/invoice/form",
+      "style": {
+        "navigationBarTitleText": "开票信息",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/subwayList/index",
+      "style": {
+        "navigationBarTitleText": "地铁列表",
+        "mp-alipay": {
+          "titleBarColor": "#fff",
+          "transparentTitle": "none",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/my/invoice/detail",
+      "style": {
+        "navigationBarTitleText": "发票详情",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/timeTable/index",
+      "style": {
+        "navigationBarTitleText": "地铁时刻表",
+        "mp-alipay": {
+          "titleBarColor": "#fff",
+          "transparentTitle": "none",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/index/openSuccess",
+      "style": {
+        "navigationBarTitleText": "贵阳乘车码开通",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/index/openFail",
+      "style": {
+        "navigationBarTitleText": "贵阳乘车码开通",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/priceInquiry/index",
+      "style": {
+        "navigationBarTitleText": "地铁票价查询",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/charge/charge",
+      "style": {
+        "navigationBarTitleText": "充值",
+        "navigationBarTitleTextColor": "#FFFFFF",
+        "navigationBarTextStyle": "white",
+        "backgroundColor": "#000",
+
+        "mp-alipay": {
+          "transparentTitle": "auto"
+        }
+      }
+    },
+    {
+      "path": "pages/my/charge/chargeResult",
+      "style": {
+        "navigationBarTitleText": "充值结果",
+        "mp-alipay": {
+          "titleBarColor": "#fff",
+          "transparentTitle": "auto",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/webView/index",
+      "style": {
+        "navigationBarTitleText": "一应黔行",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/guide/index",
+      "style": {
+        "navigationBarTitleText": "乘车指南",
+        "mp-alipay": {
+          "titleBarColor": "#fff",
+          "transparentTitle": "auto",
+          "titlePenetrate": "YES"
+        }
+      }
+    },
+    {
+      "path": "pages/privacy/index",
+      "style": {
+        "navigationBarTitleText": "协议与隐私",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/itineray/open",
+      "style": {
+        "navigationBarTitleText": "开具行程单",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/itineray/openedList",
+      "style": {
+        "navigationBarTitleText": "已开行程单",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/itineray/form",
+      "style": {
+        "navigationBarTitleText": "开行程单信息",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/itineray/detail",
+      "style": {
+        "navigationBarTitleText": "行程单详情",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    },
+    {
+      "path": "pages/my/itineray/travelDetail",
+      "style": {
+        "navigationBarTitleText": "交易明细",
+        "mp-alipay": {
+          "titleBarColor": "#fff",
+          "transparentTitle": "auto"
+        }
+      }
+    },
+    {
+      "path": "pages/my/itineray/result",
+      "style": {
+        "navigationBarTitleText": "开具行程申请",
+        "mp-alipay": {
+          "titleBarColor": "#fff"
+        }
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#1677FF",
+    "borderStyle": "black",
+    "height": "50px",
+    "fontSize": "20px",
+    "iconWidth": "24px",
+    "spacing": "3px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/index@2x.png",
+        "selectedIconPath": "static/tabs/index-active@2x.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/news/index",
+        "iconPath": "static/tabs/news@2x.png",
+        "selectedIconPath": "static/tabs/news-active@2x.png",
+        "text": "出行资讯"
+      },
+      {
+        "pagePath": "pages/shop/index",
+        "iconPath": "static/tabs/shop@2x.png",
+        "selectedIconPath": "static/tabs/shop-active@2x.png",
+        "text": "商城"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "iconPath": "static/tabs/my@2x.png",
+        "selectedIconPath": "static/tabs/my-active@2x.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "easycom": {
+    "custom": {
+      "^u--(.*)": "uview-plus/components/u-$1/u-$1.vue",
+      "^up-(.*)": "uview-plus/components/u-$1/u-$1.vue",
+      "^u-([^-].*)": "uview-plus/components/u-$1/u-$1.vue"
+    }
+  }
+}
