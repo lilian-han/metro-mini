@@ -3,7 +3,7 @@ module.exports = {
   extends: ['stylelint-config-standard', 'stylelint-config-recommended-vue', 'stylelint-config-prettier'],
   // fix  Unexpected unknown at-rule "@mixin" https://github.com/stylelint/stylelint/issues/3190
   plugins: ['stylelint-scss'],
-  ignoreFiles: ['node_modules/**/*.scss'],
+  ignoreFiles: ['node_modules/**/*.scss', 'node_modules/**/**.**'],
   // add your custom config here
   // https://stylelint.io/user-guide/configuration
   rules: {
